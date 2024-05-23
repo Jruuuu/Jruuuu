@@ -1,4 +1,4 @@
-<h2 align="left">Hello! My name is Enrilo 🤓 and I'm a from San Diego, California 🌴</h2>
+<h2 align="left">Hello! My name is Enrilo 🤓 and I'm from San Diego, California 🌴</h2>
 
 ###
 
